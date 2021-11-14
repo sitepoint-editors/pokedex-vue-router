@@ -1,24 +1,15 @@
 # poke-vue-router
 
-## Project setup
+A simple Pokedex app created as a practical example on how to use Vue Router 3.
+
+1. Install the dependencies:
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+2. Run the app:
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
